@@ -4,7 +4,8 @@ title: "Chapitre 4"
 
 ## Océan ##
 
-![image](https://user-images.githubusercontent.com/125372688/229934164-60f62a5a-6909-4c1d-9aac-caff567c4f34.png)
+![image](https://user-images.githubusercontent.com/125372688/229936328-b7c6f059-df07-4622-bfd9-98b2084d8573.png)
+
 
 l’océan est maintenant terne et sec 
 seule j’avance et sable mes pieds cornés 
