@@ -82,6 +82,8 @@ en me momifiant
 
 ## Comment s’envoler ##
 
+![image](https://user-images.githubusercontent.com/125372688/229929797-25a371a1-c0c9-42e6-8003-009e6e5b296c.png)
+
 brise ta carapace 
 ouvre les yeux 
 vois le monde
