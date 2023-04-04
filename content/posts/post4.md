@@ -55,37 +55,7 @@ inquiète de ce que ton silence indique, elle prie
 ici, fragile mais autrefois invincible
 c’est de ta faute si elle se meurt d’angoisse 
 
-
-## Plastoc ##
-
-marches sur les dents
-à en perdre connaissance
-la peur de s’étrangler de plastoc
-linceul d’hydrométéores
-si tu ne trouves pas l’éden
-tends-moi la nageoire 
-
-
-## Nature morte ##
-
-La contemplation la nature morte m’avale 
-je me perds dans la vanité
-une souris me ronge de l’intérieur
-du bas-ventre jusqu’au cœur 
-se sucer la pomme 
-sous un saule pleureur 
-brise de promesses
-pelotes d’humiliation 
-voleur de mon innocence 
-la nature morte s’est fanée 
-
-
-## Je peux déréistique ##
-
-                  Embrase-moi de tous tes sens. Prends ma main et fais-moi tourner. 
-                  Je peux folasse dans tes bras. Mets le feu à mon âme, 
-                  pour que je devienne poussières. Je peux déréistique. 
-                  La réalité me centrifuge, t’annihile. J’apprends du rêve.  
+ 
                   
 ## Réincarner ##
 
