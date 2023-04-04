@@ -60,6 +60,8 @@ CRI!
 
 ## Le flocon armé ##
 
+![image](https://user-images.githubusercontent.com/125372688/229928371-ee90c1a0-dfc5-435a-9f47-b668eb7eb174.png)
+
 flocons de neiges 
 beaux, trompeurs
 vaisseaux de la mort 
@@ -87,6 +89,9 @@ que personne ne réclamera
 
 
 ## Funambuler ##
+
+![image](https://user-images.githubusercontent.com/125372688/229928009-6703448c-c648-4040-b58c-034b0d1f78a2.png)
+
 
 effleurée, touchée, abusée 
 
@@ -117,6 +122,9 @@ Chanceler, Funambuler, Vivre
 
 
 ## Je suis le bateau ##
+
+
+![image](https://user-images.githubusercontent.com/125372688/229928264-8c5571c1-4a79-4a13-a7b9-e90be4f52d5e.png)
 
 
 battements de cœur 
