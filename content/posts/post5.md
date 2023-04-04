@@ -39,6 +39,8 @@ plus forte
 
 ## Vivre de musique ##
 
+![image](https://user-images.githubusercontent.com/125372688/229939113-a1a8153c-5f98-4516-9a74-a99b0e1fecb9.png)
+
 une mélodie s’élève
 et papillonne 
 jusqu’à mes oreilles
