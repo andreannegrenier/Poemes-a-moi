@@ -67,6 +67,8 @@ vide
 
 ## Tâches d’enfance ##
 
+![image](https://user-images.githubusercontent.com/125372688/229937814-4ec2c7ac-2eba-46d4-8cdc-318fefc555a3.png)
+
 
 dans une maison centenaire
 il y a une table ronde 
@@ -240,6 +242,7 @@ la nature morte s’est fanée
 
 ## Galaxie de poils ##
 
+![image](https://user-images.githubusercontent.com/125372688/229938478-691b89c4-cd1e-4045-82c3-cc3981ba750b.png)
 
 dans une maison centenaire
 le sol est une galaxie 
@@ -263,6 +266,8 @@ son milieu
 
 
 ## Déréistique ##
+
+![image](https://user-images.githubusercontent.com/125372688/229938721-c7b1eb24-1f21-44b6-be84-f5444c8208d4.png)
 
 regards langoureux 
 embrase-moi 
