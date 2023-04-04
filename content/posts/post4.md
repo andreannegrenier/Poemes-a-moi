@@ -4,6 +4,8 @@ title: "Chapitre 4"
 
 ## Océan ##
 
+![image](https://user-images.githubusercontent.com/125372688/229934164-60f62a5a-6909-4c1d-9aac-caff567c4f34.png)
+
 l’océan est maintenant terne et sec 
 seule j’avance et sable mes pieds cornés 
 mais où est passé l’eau 
@@ -19,6 +21,8 @@ pleurent ma disparition, moi leur bienfaiteur.
 
 
 ## Mort de soif ## 
+
+![image](https://user-images.githubusercontent.com/125372688/229934468-a09ccb19-b225-4b72-99a7-7b5a3f738551.png)
 
 nous perdurons 
 à la soif qui cours
@@ -36,6 +40,8 @@ On voudrait bien savoir pourquoi.
 
 
 ## Festin macabre ##
+
+![image](https://user-images.githubusercontent.com/125372688/229931968-00c7627d-ad9b-4404-afc1-73fafa27f159.png)
 
 le silence arrive enfin
 sans les cris d’agonis couverts par les vagues
