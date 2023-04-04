@@ -4,7 +4,10 @@ title: "Chapitre 1"
 
 ## Retour à l’état liquide ##
 
- ![image](https://user-images.githubusercontent.com/125372688/229912143-c58a772d-98e5-4306-875c-60e365298c59.png)
+![image](https://user-images.githubusercontent.com/125372688/229929511-1e6cade3-e1e1-4249-a719-c16388b538e7.png)
+
+
+
 
 Je nais de l’asphalte qui a craqué                                                                                                          
 sous les assauts                                                                                                                            
@@ -31,7 +34,8 @@ du renouveau
 
 ## Game Time ##
 
-![image](https://user-images.githubusercontent.com/125372688/229913774-35fabfe6-8565-4a0c-9cb8-9721db4518c6.png)
+![image](https://user-images.githubusercontent.com/125372688/229929331-cdd9ea77-6ea3-4b0c-be76-47bdbd415cc9.png)
+
 
 avoir le cœur dans                                                                                                                       
 les pieds
