@@ -6,6 +6,8 @@ title: "Chapitre 4"
 
 ## Juste un peu ##
 
+
+
 penser, ressasser
 se sentir coupable
 à chaque faux pas 
