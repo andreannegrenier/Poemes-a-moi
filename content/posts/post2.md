@@ -58,7 +58,7 @@ CRI!
 
 
 
-## Le flocon armé ##
+## Le flocon armé[^3]##
 
 ![image](https://user-images.githubusercontent.com/125372688/229928371-ee90c1a0-dfc5-435a-9f47-b668eb7eb174.png)
 
@@ -86,9 +86,9 @@ défaite
 corps sans vie 
 que personne ne réclamera
 
+[^3]: Cette photo a été prise lors d'une promenade en forêt cette hiver. 
 
-
-## Funambuler ##
+## Funambuler[^4]##
 
 ![image](https://user-images.githubusercontent.com/125372688/229928009-6703448c-c648-4040-b58c-034b0d1f78a2.png)
 
@@ -118,7 +118,7 @@ tout droit
 Chanceler, Funambuler, Vivre 
 
 
-
+[^4]: Cette photo a été prise à Cuba en fin février. 
 
 
 ## Je suis le bateau ##
