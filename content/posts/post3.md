@@ -3,7 +3,7 @@ title: "Chapitre 3"
 ---
 
 
-## Supernova [un lien vers une page Wikipédia](https://fr.wikipedia.org/wiki/Supernova) ##
+## [Supernova](https://fr.wikipedia.org/wiki/Supernova) ##
 
 Marteau sur la tête
 je flotte
@@ -36,7 +36,7 @@ réveil
 ## Fuir le temps ##
 
 
-viens me sauver Peter Pan [un lien vers une page Wikipédia](https://fr.wikipedia.org/wiki/Peter_Pan)
+viens me sauver [Peter Pan](https://fr.wikipedia.org/wiki/Peter_Pan)
 montre-moi le chemin 
 du pays imaginaire 
 
