@@ -2,6 +2,18 @@
 title: "Chapitre 1"
 ---
 
+*Le poème est une grappe d'images.*                                                                                                      
+-**Gaston Bachelard**, *La Terre et les rêveries de la volonté*
+ 
+*Plus le poème est court, plus il entre en la chair.*                                                                                    
+-**Louis Aragon**, *Les Adieux*
+
+
+
+
+
+
+
 ## Retour à l’état liquide[^1] ##
 
 ![image](https://user-images.githubusercontent.com/125372688/229929511-1e6cade3-e1e1-4249-a719-c16388b538e7.png)
