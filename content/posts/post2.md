@@ -86,7 +86,7 @@ défaite
 corps sans vie 
 que personne ne réclamera
 
-[^3]: Cette photo a été prise lors d'une promenade en forêt cette hiver. 
+[^3]: Cette photo a été prise lors d'une promenade en forêt cet hiver. 
 
 ## Funambuler[^4]##
 
