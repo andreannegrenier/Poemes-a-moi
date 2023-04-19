@@ -2,7 +2,7 @@
 title: "Chapitre 1"
 ---
 
-## Retour à l’état liquide ##
+## Retour à l’état liquide[^1] ##
 
 ![image](https://user-images.githubusercontent.com/125372688/229929511-1e6cade3-e1e1-4249-a719-c16388b538e7.png)
 
@@ -30,9 +30,9 @@ je m’efface tranquillement
 me mélange avec le solvant                                                                                                                
 du renouveau 
 
-                                                                                                                                               
+ [^1]: Ce poème et le suivant ont été réalisés à partir d'une déambulation dans la ville de Saint-Hyacinthe.                                                                                                                                               
 
-## Game Time ##
+## Game Time [^2]##
 
 ![image](https://user-images.githubusercontent.com/125372688/229929331-cdd9ea77-6ea3-4b0c-be76-47bdbd415cc9.png)
 
@@ -66,3 +66,5 @@ voit mes gravures
 espérer                                                                                                                                 
 un nouveau                     
 partenaire de jeu                            
+
+[^2]: Je n'ai jamais réussi à trouver pourquoi il était inscrit *Game time* sur ce banc.
